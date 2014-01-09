@@ -2,7 +2,7 @@
 
 Background Blur Effect for iOS 7 UIView 
 
-Since this is not a subclass of UIView but a category of UIView, You can blur background of existing UIViews without replacing them with something subclassed.
+Since this is not a subclass of UIView but a category of UIView, you can blur the background of existing UIViews without replacing them with something subclassed.
 
 ##Screenshot
 ![Screenshot](https://raw.github.com/kissrobber/BackgroundBlurEffectUIView/master/screenshot.png "Example of BackgroundBlurEffectUIView")
